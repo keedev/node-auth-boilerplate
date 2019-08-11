@@ -4,7 +4,7 @@ A boilderplate for node express framework
 * Node Express
 * Typescript  
 * TypeORM
-* Passport.JS - login/register API ready
+* Passport.JS - JWT generator, login/register API ready
 
 ## Useful scripts
 
